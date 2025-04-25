@@ -1,1 +1,1 @@
-# MAM-integrated
+# AI-Media-Platform
