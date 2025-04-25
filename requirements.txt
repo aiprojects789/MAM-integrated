@@ -26,7 +26,6 @@ google-pasta==0.2.0
 google-resumable-media==2.5.0
 googleapis-common-protos==1.61.0
 huggingface-hub==0.27.1
-huggingsound==0.1.6
 imageio==2.31.1
 imageio-ffmpeg==0.6.0
 imgaug==0.4.0
